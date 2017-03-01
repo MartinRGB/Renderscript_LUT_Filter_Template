@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
 
     //256 16 LUT
 //    int[] mLut3D = {
+//            R.drawable.origin_16,
+//            R.drawable.lut_test,
 //            R.drawable.lut_vintage,
 //            R.drawable.lut_bleach,
 //            R.drawable.lut_blue_crush,
