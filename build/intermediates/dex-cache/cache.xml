@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f04449f29da675f696e9629a29718457fd92193e">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3d86475ed604e4d037ac5806dd43ba5ccafc14f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_9541899c3fdb162c1057851d2f6a1d58f17a0ac4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Library/Android/sdk/build-tools/25.0.2/renderscript/lib/renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_8db1e2b8e5f001a5c2495af6593ab43c245441ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_9b546693e5067ac1d5e16f5f7cb3439fd256abfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_41aee33608dcaa418f224b5d863a23cff4b97e57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_9d2b1bdaff8ec17ea26c4eb63819bd7ec809e528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_8837a2ee535ddf8bbb9183876c69376c81301c9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_c137b6eedb07d0cc889aa04d7b7f0b7b8c884c1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_22e49b87b0d97fe2098c1cd1051f30aa866f8c95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_51f4c9eec9570c15f0ae2147c83e466f8c0db68f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_00492d8692ec6855cb78ed516daa82201de314ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_713967e5f68f9434a6e58e5ce2f368d989c109f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe3c2e3f7904cb1945b8cd7b4c0d832efee3027e">
+        <dex dex="/Users/MartinRGB/Desktop/Github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b02b159114752a324bee97044a6fbcc078f744b3/classes.dex" />
+    </item>
+
+</items>
