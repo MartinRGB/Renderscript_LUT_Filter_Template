@@ -1,4 +1,4 @@
-package com.example.martinrgb.renderscriptfiltertest;
+package com.example.martinrgb.renderscriptfiltertemplate;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

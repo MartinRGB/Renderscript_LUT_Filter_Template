@@ -1,4 +1,4 @@
-package com.example.martinrgb.renderscriptfiltertest;
+package com.example.martinrgb.renderscriptfiltertemplate;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

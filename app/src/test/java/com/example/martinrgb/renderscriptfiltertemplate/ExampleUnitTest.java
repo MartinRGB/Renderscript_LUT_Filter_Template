@@ -1,4 +1,4 @@
-package com.example.martinrgb.renderscriptfiltertest;
+package com.example.martinrgb.renderscriptfiltertemplate;
 
 import org.junit.Test;
 

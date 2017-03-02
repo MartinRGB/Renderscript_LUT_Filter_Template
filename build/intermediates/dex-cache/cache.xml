@@ -3,39 +3,66 @@
 
     <item
         is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_1b82cd8e815d7959acfaa490de98dabf3fec792d/classes.dex" />
+        sha1="4870bea11e7f1d9d7f020d858e3206845c0b4f59">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7dcfefa4faf3523858d8c7f88d95b65d9153030c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_b52029bf7e2643b8afa47d566b664400786b26e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_6d5224993eb12a80d0a621394166ff4a0564fc02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_43509cd57ce272229d623d800544529f1d7d9e35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60209c1f65dc56c9e91d931adb1fbeb8056ae177">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b1b8b8772184fd114f643510426aba573e26fe93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_4b1b88d0ee241cee4a12b854fee9d1ad1f3ced8c/classes.dex" />
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_75cb99c301c17bf53812c2d423f25d785bb521d8/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="19056b697deb55a36a06e0a0e752ff35e3f871aa">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf198a7e560e3dcbd55c922466334cda6064366c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_33ce37de97314d770bdd03750b22521198bd196e/classes.dex" />
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_06f1cde775b7bd6df76a0594726226870bb73405/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -44,16 +71,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_8db1e2b8e5f001a5c2495af6593ab43c245441ec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_9dd40e60b579c953ae376b574ca7d90da5f9cc21/classes.dex" />
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_8db1e2b8e5f001a5c2495af6593ab43c245441ec/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -62,61 +80,43 @@
         optimize="true"
         revision="25.0.2"
         sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_41aee33608dcaa418f224b5d863a23cff4b97e57/classes.dex" />
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_41aee33608dcaa418f224b5d863a23cff4b97e57/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_e64cb9b7e5300aef2da663d9a8eafe823ed377bc/classes.dex" />
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_3b22b09ce79c3b43956464464fc259230cb37870/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_8f8790da6e731332de561e33244c6a79f83e47f8/classes.dex" />
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_b85da25987293024ec400f635565dc6a95799296/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_fe3f18e0d5a1d4f2382187359b8224e79b1c5ff4/classes.dex" />
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_a8d066382a10ac183942aa43c50a04f29ad977d7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_fc96c54f15a7727326a9e5d1b08419d4c13539d7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_51a40d103f3e1c179f1c55ac76d70c34b4155033/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2ec9f8618a30f3760c9ca22eba4a05ee42d0b26a">
-        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_51cfa96ce4a1d1be6e4ad6b15c9a1c6410fdb74a/classes.dex" />
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/MartinRGB/Desktop/Github/Renderscript_LUT_Filter_Template/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_254c7beca9e3284e50e675cba16a93b6ddc18279/classes.dex" />
     </item>
 
 </items>
